@@ -14,22 +14,6 @@ enum Singleton {
     ] as OAuth2JSON)
 }
 
-extension URL {
-    var queryParameters: [String: String]? {
-        guard let components = URLComponents(url: self, resolvingAgainstBaseURL: false),
-              let queryItems = components.queryItems else {
-            return nil
-        }
-        
-        var parameters: [String: String] = [:]
-        queryItems.forEach { item in
-            parameters[item.name] = item.value
-        }
-        
-        return parameters
-    }
-}
-
 enum LoadingState {
     case idle
     case loading
@@ -47,4 +31,20 @@ enum loginAlternatives: String {
     case fetchRepos = "Fetch Repos"
     case login = "Login"
 }
+
+//extension URL {
+//    var queryParameters: [String: String]? {
+//        guard let components = URLComponents(url: self, resolvingAgainstBaseURL: false),
+//              let queryItems = components.queryItems else {
+//            return nil
+//        }
+//
+//        var parameters: [String: String] = [:]
+//        queryItems.forEach { item in
+//            parameters[item.name] = item.value
+//        }
+//
+//        return parameters
+//    }
+//}
 

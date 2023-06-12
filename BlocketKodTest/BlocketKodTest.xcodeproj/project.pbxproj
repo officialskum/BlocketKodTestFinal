@@ -18,6 +18,7 @@
 		718801C02A337E9400A701DB /* README in Resources */ = {isa = PBXBuildFile; fileRef = 718801BF2A337E9400A701DB /* README */; };
 		718801CA2A36486B00A701DB /* BlocketKodTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718801C92A36486B00A701DB /* BlocketKodTestTests.swift */; };
 		718801D12A371FC900A701DB /* MockDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718801D02A371FC900A701DB /* MockDataManager.swift */; };
+		718801D42A3729D200A701DB /* RepositoryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718801D32A3729D200A701DB /* RepositoryViewModel.swift */; };
 		719E0A9A2A2DCC0300C6C63D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719E0A992A2DCC0300C6C63D /* ContentView.swift */; };
 		719E0A9C2A2DD0CF00C6C63D /* OAuthWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719E0A9B2A2DD0CF00C6C63D /* OAuthWebView.swift */; };
 		719E0AA02A2DDC6600C6C63D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719E0A9F2A2DDC6600C6C63D /* Extensions.swift */; };
@@ -46,6 +47,7 @@
 		718801C72A36486B00A701DB /* BlocketKodTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlocketKodTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		718801C92A36486B00A701DB /* BlocketKodTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlocketKodTestTests.swift; sourceTree = "<group>"; };
 		718801D02A371FC900A701DB /* MockDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockDataManager.swift; sourceTree = "<group>"; };
+		718801D32A3729D200A701DB /* RepositoryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryViewModel.swift; sourceTree = "<group>"; };
 		719E0A992A2DCC0300C6C63D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		719E0A9B2A2DD0CF00C6C63D /* OAuthWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OAuthWebView.swift; sourceTree = "<group>"; };
 		719E0A9D2A2DDB9600C6C63D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				719E0A9E2A2DDC5600C6C63D /* Extensions */,
 				713F30A32A29E76800A96779 /* Managers */,
 				713F30A62A29E7B000A96779 /* Views */,
+				718801D22A3729B400A701DB /* ViewModel */,
 				713F30A92A29E82000A96779 /* Model */,
 				713F30992A29DF2E00A96779 /* Assets.xcassets */,
 				713F309B2A29DF2E00A96779 /* Preview Content */,
@@ -147,6 +150,14 @@
 				718801D02A371FC900A701DB /* MockDataManager.swift */,
 			);
 			path = BlocketKodTestTests;
+			sourceTree = "<group>";
+		};
+		718801D22A3729B400A701DB /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				718801D32A3729D200A701DB /* RepositoryViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		719E0A9E2A2DDC5600C6C63D /* Extensions */ = {
@@ -270,6 +281,7 @@
 				718801BE2A31FDC500A701DB /* RepositoryView.swift in Sources */,
 				713F30962A29DF2C00A96779 /* BlocketKodTestApp.swift in Sources */,
 				713F30AB2A29E83600A96779 /* Repository.swift in Sources */,
+				718801D42A3729D200A701DB /* RepositoryViewModel.swift in Sources */,
 				713F30A82A29E7C600A96779 /* RepositoryListView.swift in Sources */,
 				719E0A9C2A2DD0CF00C6C63D /* OAuthWebView.swift in Sources */,
 			);

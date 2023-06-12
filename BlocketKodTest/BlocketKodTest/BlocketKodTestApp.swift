@@ -2,6 +2,8 @@ import SwiftUI
 
 @main
 struct BlocketKodTestApp: App {
+    var dataManager: DataManagerProtocol = DataManager()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()

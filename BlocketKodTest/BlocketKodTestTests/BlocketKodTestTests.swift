@@ -1,12 +1,14 @@
 import XCTest
 @testable import BlocketKodTest
 
+// Integrationstester som gör riktiga anrop
+
 final class BlocketKodTestTests: XCTestCase {
     var repositories: [Repository] = []
-    var dataManager = DataManager()
+    var dataManager = DataManager(authenticatedUser: "testUser")
     
     func setup() {
-        dataManager = DataManager(authenticatedUser: "testUser")
+        
     }
     
     override func tearDown() {
