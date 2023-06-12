@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A591E6D-D2B6-4162-8DBF-EC7D72ED1745"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "358678FC-F6C1-4D51-8A34-BDCF150FF634"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6161B2D-66DB-48FD-A163-805166219EA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6161B2D-66DB-48FD-A163-805166219EA2 - dae3357c5aa6cdda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flows.OAuth2CodeGrant.exchangeCodeForToken(Swift.String) -&gt; ()"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "C6161B2D-66DB-48FD-A163-805166219EA2 - de077ad9c77ce0c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Base.OAuth2Response) -&gt; () in Flows.OAuth2CodeGrant.exchangeCodeForToken(Swift.String) -&gt; ()"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F74832F-8613-45E1-9EC6-C774743B7048"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2E54068-94BF-46B3-9613-335FDC5C820B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "252C3773-EF59-4C2B-A383-6A8F963EF997"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC1F0BF-4A6A-428F-9027-F68F82CE7313"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB4ADDB5-6E1D-4ED7-811A-AB14882A3142"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A720AD67-FBAB-4FDF-9F05-FF4CC5BC99E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9A5E7C9-110D-4CE7-85C1-82E5CC86F447"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C034A4C2-5902-40A2-A718-C7DF689EA5CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrantBasicAuth.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "accessTokenRequest(with:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91F47786-218A-44EA-8A99-47D2BB480FD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "accessTokenRequest(with:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3B7238-CAC6-4771-B0F5-D45E9C0DA4BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "accessTokenRequest(with:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF4F6B5E-076C-4300-B202-709088930824"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "accessTokenRequest(with:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "771FC37C-C468-4BC7-98A8-9F63C9AA87EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "accessTokenRequest(with:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EACBC65C-2EFF-4E87-ACB0-AAF83A2B1FB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "accessTokenRequest(with:params:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EACBC65C-2EFF-4E87-ACB0-AAF83A2B1FB4 - cecb444942c258ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flows.OAuth2CodeGrant.accessTokenRequest(with: Swift.String, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) throws -&gt; Base.OAuth2AuthRequest"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "EACBC65C-2EFF-4E87-ACB0-AAF83A2B1FB4 - cecb444942c258ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flows.OAuth2CodeGrant.accessTokenRequest(with: Swift.String, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) throws -&gt; Base.OAuth2AuthRequest"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACB62F0B-D5DE-4AC4-BFCD-B1D05557193A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "handleRedirectURL(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94784FF2-392A-484A-B0C5-535A0BEF8660"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "handleRedirectURL(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3EDB324-80C5-497C-8C9D-8AE825799BEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "validateRedirectURL(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1DFC5DC-B060-4035-8939-D1F12DCA8F31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "validateRedirectURL(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B99C844-6E35-4C33-A1F3-994B60324546"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "validateRedirectURL(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "700A5833-C1DB-459E-9DC7-AC832578F1B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "validateRedirectURL(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C246CDFB-9E34-4534-8323-035769EB0775"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "doOpenAuthorizeURLInBrowser(params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "504A11D5-77EA-439D-AF22-26BFDECA114A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
+            landmarkName = "authorizeRequest(withRedirect:scope:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4B92860-0461-432D-A151-15886CB30EBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "authorizeRequest(withRedirect:scope:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "386E42AB-75A7-454E-A17F-278EC0405E7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
+            landmarkName = "authorizeURL(withRedirect:scope:params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB49F94A-1835-4C22-9E5F-AC1845422A1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Base/OAuth2AuthRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "asURL()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8757FB0-C97D-418C-98C8-83F416F43405"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Base/OAuth2AuthRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "asURL()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8757FB0-C97D-418C-98C8-83F416F43405 - 7e751890a66b064a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Base.OAuth2AuthRequest.asURL() throws -&gt; Foundation.URL"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Base/OAuth2AuthRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "B8757FB0-C97D-418C-98C8-83F416F43405 - 7e751890a66b064a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Base.OAuth2AuthRequest.asURL() throws -&gt; Foundation.URL"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Base/OAuth2AuthRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46504F8E-CF1F-4B49-A868-1B621B2EC5AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "doOpenAuthorizeURLInBrowser(params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50BF8C16-DA46-42E6-9FB9-F06197ABF0E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DAF38DF-A510-46FC-9DE5-B1E776298E3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/BlocketKodTest-fcaptenpualgkcbhpoixyjaztuls/SourcePackages/checkouts/OAuth2/Sources/Flows/OAuth2CodeGrant.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "exchangeCodeForToken(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8491FABC-8F77-4722-B6F8-A3C403B10C67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocketKodTest/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchRepositories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E88168C-A838-40FF-8FA3-054A57FDC8CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocketKodTest/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "fetchRepositories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94055D75-CE3A-44E0-A4A3-19C43BA33E71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocketKodTest/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "fetchRepositories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12FCB938-4E11-4974-9BAA-F6AA7039A4CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocketKodTest/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "fetchRepositories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "583B9373-7FA6-4D71-9E94-17D4995CFA8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocketKodTest/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "fetchRepositories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "583B9373-7FA6-4D71-9E94-17D4995CFA8C - fd8739035c80b1d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlocketKodTest.DataManager.fetchRepositories() -&gt; ()"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Desktop/SwiftProjects/BlocketKodTest/BlocketKodTest/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2688">
+               </Location>
+               <Location
+                  uuid = "583B9373-7FA6-4D71-9E94-17D4995CFA8C - fd8739035c80b1d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlocketKodTest.DataManager.fetchRepositories() -&gt; ()"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Desktop/SwiftProjects/BlocketKodTest/BlocketKodTest/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "3204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6CD0AFE-7704-4DF0-820D-3EDBA2F86AF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocketKodTest/Managers/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchRepositories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6CD0AFE-7704-4DF0-820D-3EDBA2F86AF7 - fe58dd34bfab9caa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlocketKodTest.DataManager.fetchRepositories() -&gt; ()"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Desktop/SwiftProjects/BlocketKodTest/BlocketKodTest/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "C6CD0AFE-7704-4DF0-820D-3EDBA2F86AF7 - fe58dd34bfab9caa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlocketKodTest.DataManager.fetchRepositories() -&gt; ()"
+                  moduleName = "BlocketKodTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreasjonasson/Desktop/SwiftProjects/BlocketKodTest/BlocketKodTest/Managers/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,14 @@
+OAuth2 GitHub App för Blocket!
+
+TODO:
+Bryt upp till RepositoryListView istället för att lista ForEach i ContentView
+Fixa till vyer och animationer
+Unit tester
+Fixa till arkitekturen
+Fixa logout funktion
+Byt till OAuthWebView istället, verkar vara snyggare
+Kör MatchedGeometry för vyerna istället perhaps
+
+Nice to haves:
+Funktion att logga ut en användare
+
